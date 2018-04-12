@@ -1,0 +1,8 @@
+{
+  "name": "mySuperProject",
+  "app_id": "e1ffbb8b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
